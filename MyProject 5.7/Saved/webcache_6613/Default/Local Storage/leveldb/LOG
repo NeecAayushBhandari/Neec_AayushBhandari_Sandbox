@@ -1,2 +1,3 @@
-2026/05/29-09:17:57.984 4b0c Creating DB C:\Users\CGuser\Documents\GitHub\Neec_AayushBhandari_Sandbox\MyProject 5.7\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/05/29-09:17:58.001 4b0c Reusing MANIFEST C:\Users\CGuser\Documents\GitHub\Neec_AayushBhandari_Sandbox\MyProject 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/12-11:47:04.674 3ac4 Reusing MANIFEST C:\Users\CGuser\Documents\GitHub\Neec_AayushBhandari_Sandbox\MyProject 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/12-11:47:04.679 3ac4 Recovering log #3
+2026/06/12-11:47:04.684 3ac4 Reusing old log C:\Users\CGuser\Documents\GitHub\Neec_AayushBhandari_Sandbox\MyProject 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 

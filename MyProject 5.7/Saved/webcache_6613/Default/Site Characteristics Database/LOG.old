@@ -1,7 +1,9 @@
-2026/05/29-09:17:57.898 5234 Log #9: 1 ops saved to Table #10 OK
-2026/05/29-09:17:57.906 5234 Archiving C:\Users\CGuser\Documents\GitHub\Neec_AayushBhandari_Sandbox\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
-2026/05/29-09:17:57.911 5234 Table #4: 2 entries OK
-2026/05/29-09:17:57.916 5234 Table #7: 1 entries OK
-2026/05/29-09:17:57.917 5234 Table #10: 1 entries OK
-2026/05/29-09:17:57.944 5234 Archiving C:\Users\CGuser\Documents\GitHub\Neec_AayushBhandari_Sandbox\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/05/29-09:17:57.967 5234 **** Repaired leveldb C:\Users\CGuser\Documents\GitHub\Neec_AayushBhandari_Sandbox\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 503 bytes. Some data may have been lost. ****
+2026/06/12-09:04:47.340 2068 Reusing MANIFEST C:\Users\CGuser\Documents\GitHub\Neec_AayushBhandari_Sandbox\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/06/12-09:04:47.341 1b28 Compacting 4@0 + 0@1 files
+2026/06/12-09:04:47.348 1b28 Generated table #16@0: 2 keys, 191 bytes
+2026/06/12-09:04:47.349 1b28 Compacted 4@0 + 0@1 files => 191 bytes
+2026/06/12-09:04:47.349 1b28 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/12-09:04:47.350 1b28 Delete type=2 #4
+2026/06/12-09:04:47.350 1b28 Delete type=2 #7
+2026/06/12-09:04:47.350 1b28 Delete type=2 #10
+2026/06/12-09:04:47.350 1b28 Delete type=2 #13
